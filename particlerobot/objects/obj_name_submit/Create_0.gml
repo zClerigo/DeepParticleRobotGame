@@ -1,0 +1,2 @@
+canType = false;
+name = "";

@@ -1,0 +1,1 @@
+obj_stars.sprite_index = spr_3stars;

@@ -1,0 +1,1 @@
+if (obj_goal.won == false) {time = instance_find(obj_bar, 0).x / 0.6;}

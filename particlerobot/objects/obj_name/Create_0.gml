@@ -1,0 +1,1 @@
+name = obj_name_submit.name;  

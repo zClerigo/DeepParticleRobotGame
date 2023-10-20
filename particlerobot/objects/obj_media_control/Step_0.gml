@@ -1,0 +1,1 @@
+if (obj_creator.paused == true or obj_creator.phase != 2) {sprite_index = spr_pause} else {sprite_index = spr_play}; 
